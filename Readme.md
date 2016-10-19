@@ -1,7 +1,7 @@
 # Личный проект «Нёрдс»
 
 * Студент: [Игорь Ситников](https://up.htmlacademy.ru/htmlcss/15/user/246711).
-* Наставник: `Андрей Захарченко`.
+* Наставник: [Андрей Захарченко](https://htmlacademy.ru/profile/drewtsure).
 
 ---
 
